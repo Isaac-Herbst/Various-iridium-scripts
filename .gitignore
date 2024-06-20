@@ -7,5 +7,8 @@
 # Allow .py files
 !*.py
 
+# Allow .md files
+!*.md
+
 # Ignore __pycache__ directories
 __pycache__/
