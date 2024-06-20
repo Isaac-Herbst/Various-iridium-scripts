@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# Except for .gitignore itself
+!.gitignore
+
+# Allow .py files
+!*.py
+
+# Ignore __pycache__ directories
+__pycache__/
